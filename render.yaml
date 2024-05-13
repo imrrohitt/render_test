@@ -1,6 +1,6 @@
 databases:
-  - name: test_site
-    databaseName: blog
+  - name: mysite
+    databaseName: mysite
     user: mysite
     plan: free
 
